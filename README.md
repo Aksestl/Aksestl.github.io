@@ -1,7 +1,7 @@
 # Regular_Expressions - Form_Validation (by Aksenova Alena)
 * Сurrent version of the project is v0.0.4
 * This project shows how forms can be validated by the regular expressions in pattern atribute
-* This project is created for skills development
+* This project is created for skill development
 * This project contains:
     * HTML
     * CSS
