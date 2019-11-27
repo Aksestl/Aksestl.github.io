@@ -6,4 +6,4 @@
     * HTML
     * CSS
     * GIT 
-* To expand the project, follow the link https://aksestl.github.io/regular_expressions-form_validation.github.io/
+* To expand the project, follow the link https://aksestl.github.io/regular_expressions-form_validation/
